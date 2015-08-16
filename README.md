@@ -1,6 +1,8 @@
 # Database
 
-MySQL Uninstall
+MySQL 
+
+[Uninstall]
 
 sudo /usr/local/mysql/support-files/mysql.server stop
 
@@ -28,12 +30,17 @@ http://dev.mysql.com/downloads/mysql/
 
 dmg archive download
 
-install
 
+[install]
+
+https://www.mysql.com/products/workbench/
+
+접속 설정시 포트가 다르더라...
 
 ps -ef | grep 'mysql'
 
 port 확인 하자 ㅠㅠ
+
 
 
 # PFXStudio
