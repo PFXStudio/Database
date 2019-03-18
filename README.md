@@ -29,7 +29,7 @@ https://www.mysql.com/products/workbench/
 접속 설정시 포트가 다르더라...
 ps -ef | grep 'mysql'
 port 확인 하자 ㅠㅠ
-workbench 테이블 생성 후 재 접속 해야 한다.
+workbench 테이블 생성 후 갱신 버튼 꼭 눌러줘야 함!!
 생성 후 갱신이 안되는 듯
 ````
 ````
